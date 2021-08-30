@@ -1,0 +1,25 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\tnsni\Documents\Micro-Projetos\tarefa3ex3.X</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)/Microchip/MPLABX/v5.35/packs/Microchip/ATmega_DFP/2.1.87\avrasm\inc</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>ex3.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)/Microchip/MPLABX/v5.35/packs/Microchip/ATmega_DFP/2.1.87\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>dist/default/debug/tarefa3ex3.X.debug.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>ex3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>dist/default/debug/tarefa3ex3.X.debug.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <LOOP><FILE>ex3.asm</FILE><LINE>10</LINE></LOOP>
+ </LABELS>
+</ASSEMBLER_INFO>

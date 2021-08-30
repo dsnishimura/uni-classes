@@ -1,0 +1,29 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\tnsni\Documents\Micro-Projetos\tarefa3ex1.X</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)/Microchip/MPLABX/v5.35/packs/Microchip/ATmega_DFP/2.1.87\avrasm\inc</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>ex1.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)/Microchip/MPLABX/v5.35/packs/Microchip/ATmega_DFP/2.1.87\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>dist/default/production/tarefa3ex1.X.production.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>dist/default/production/tarefa3ex1.X.production.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>dist/default/production/tarefa3ex1.X.production.map</FILE>
+  <FILE>dist/default/production/tarefa3ex1.X.production.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INICIO><FILE>ex1.asm</FILE><LINE>12</LINE></INICIO>
+  <TESTA_BOTAO2><FILE>ex1.asm</FILE><LINE>18</LINE></TESTA_BOTAO2>
+  <LIGA_LED><FILE>ex1.asm</FILE><LINE>28</LINE></LIGA_LED>
+  <DESLIGA_LED><FILE>ex1.asm</FILE><LINE>24</LINE></DESLIGA_LED>
+ </LABELS>
+</ASSEMBLER_INFO>

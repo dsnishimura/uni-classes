@@ -1,0 +1,25 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "meio_clk",
+					"strict" : false
+				},
+				{
+					"name" : "quarto_clk",
+					"strict" : false
+				},
+				{
+					"name" : "oitavo_clk",
+					"strict" : false
+				},
+				{
+					"name" : "ck",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

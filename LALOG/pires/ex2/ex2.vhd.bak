@@ -1,0 +1,13 @@
+entity ex2 is 
+ port(
+	e1: in integer;
+	e2: in integer;
+	s: out integer
+);
+end ex2;
+
+architecture comportamento of ex2 is
+begin calculo
+
+ s <= (e1+2)*e2;
+end comportamento;

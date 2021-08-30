@@ -1,0 +1,370 @@
+// Copyright (C) 2020  Intel Corporation. All rights reserved.
+// Your use of Intel Corporation's design tools, logic functions 
+// and other software and tools, and any partner logic 
+// functions, and any output files from any of the foregoing 
+// (including device programming or simulation files), and any 
+// associated documentation or information are expressly subject 
+// to the terms and conditions of the Intel Program License 
+// Subscription Agreement, the Intel Quartus Prime License Agreement,
+// the Intel FPGA IP License Agreement, or other applicable license
+// agreement, including, without limitation, that your use is for
+// the sole purpose of programming logic devices manufactured by
+// Intel and sold by Intel or its authorized distributors.  Please
+// refer to the applicable agreement for further details, at
+// https://fpgasoftware.intel.com/eula.
+
+// *****************************************************************************
+// This file contains a Verilog test bench with test vectors .The test vectors  
+// are exported from a vector file in the Quartus Waveform Editor and apply to  
+// the top level entity of the current Quartus project .The user can use this   
+// testbench to simulate his design using a third-party simulation tool .       
+// *****************************************************************************
+// Generated on "07/22/2021 20:44:13"
+                                                                                
+// Verilog Test Bench (with test vectors) for design :                          ex2
+// 
+// Simulation tool : 3rd Party
+// 
+
+`timescale 1 ps/ 1 ps
+module ex2_vlg_vec_tst();
+// constants                                           
+// general purpose registers
+reg [31:0] e1;
+reg [31:0] e2;
+// wires                                               
+wire [31:0] s;
+
+// assign statements (if any)                          
+ex2 i1 (
+// port map - connection between master ports and signals/registers   
+	.e1(e1),
+	.e2(e2),
+	.s(s)
+);
+initial 
+begin 
+#1000000 $finish;
+end 
+// e1[ 31 ]
+initial
+begin
+	e1[31] = 1'b0;
+end 
+// e1[ 30 ]
+initial
+begin
+	e1[30] = 1'b0;
+end 
+// e1[ 29 ]
+initial
+begin
+	e1[29] = 1'b0;
+end 
+// e1[ 28 ]
+initial
+begin
+	e1[28] = 1'b0;
+end 
+// e1[ 27 ]
+initial
+begin
+	e1[27] = 1'b0;
+end 
+// e1[ 26 ]
+initial
+begin
+	e1[26] = 1'b0;
+end 
+// e1[ 25 ]
+initial
+begin
+	e1[25] = 1'b0;
+end 
+// e1[ 24 ]
+initial
+begin
+	e1[24] = 1'b0;
+end 
+// e1[ 23 ]
+initial
+begin
+	e1[23] = 1'b0;
+end 
+// e1[ 22 ]
+initial
+begin
+	e1[22] = 1'b0;
+end 
+// e1[ 21 ]
+initial
+begin
+	e1[21] = 1'b0;
+end 
+// e1[ 20 ]
+initial
+begin
+	e1[20] = 1'b0;
+end 
+// e1[ 19 ]
+initial
+begin
+	e1[19] = 1'b0;
+end 
+// e1[ 18 ]
+initial
+begin
+	e1[18] = 1'b0;
+end 
+// e1[ 17 ]
+initial
+begin
+	e1[17] = 1'b0;
+end 
+// e1[ 16 ]
+initial
+begin
+	e1[16] = 1'b0;
+end 
+// e1[ 15 ]
+initial
+begin
+	e1[15] = 1'b0;
+end 
+// e1[ 14 ]
+initial
+begin
+	e1[14] = 1'b0;
+end 
+// e1[ 13 ]
+initial
+begin
+	e1[13] = 1'b0;
+end 
+// e1[ 12 ]
+initial
+begin
+	e1[12] = 1'b0;
+end 
+// e1[ 11 ]
+initial
+begin
+	e1[11] = 1'b0;
+end 
+// e1[ 10 ]
+initial
+begin
+	e1[10] = 1'b0;
+end 
+// e1[ 9 ]
+initial
+begin
+	e1[9] = 1'b0;
+end 
+// e1[ 8 ]
+initial
+begin
+	e1[8] = 1'b0;
+end 
+// e1[ 7 ]
+initial
+begin
+	e1[7] = 1'b0;
+end 
+// e1[ 6 ]
+initial
+begin
+	e1[6] = 1'b0;
+end 
+// e1[ 5 ]
+initial
+begin
+	e1[5] = 1'b0;
+end 
+// e1[ 4 ]
+initial
+begin
+	e1[4] = 1'b0;
+end 
+// e1[ 3 ]
+initial
+begin
+	e1[3] = 1'b1;
+end 
+// e1[ 2 ]
+initial
+begin
+	e1[2] = 1'b0;
+end 
+// e1[ 1 ]
+initial
+begin
+	e1[1] = 1'b0;
+end 
+// e1[ 0 ]
+initial
+begin
+	e1[0] = 1'b0;
+end 
+// e2[ 31 ]
+initial
+begin
+	e2[31] = 1'b0;
+end 
+// e2[ 30 ]
+initial
+begin
+	e2[30] = 1'b0;
+end 
+// e2[ 29 ]
+initial
+begin
+	e2[29] = 1'b0;
+end 
+// e2[ 28 ]
+initial
+begin
+	e2[28] = 1'b0;
+end 
+// e2[ 27 ]
+initial
+begin
+	e2[27] = 1'b0;
+end 
+// e2[ 26 ]
+initial
+begin
+	e2[26] = 1'b0;
+end 
+// e2[ 25 ]
+initial
+begin
+	e2[25] = 1'b0;
+end 
+// e2[ 24 ]
+initial
+begin
+	e2[24] = 1'b0;
+end 
+// e2[ 23 ]
+initial
+begin
+	e2[23] = 1'b0;
+end 
+// e2[ 22 ]
+initial
+begin
+	e2[22] = 1'b0;
+end 
+// e2[ 21 ]
+initial
+begin
+	e2[21] = 1'b0;
+end 
+// e2[ 20 ]
+initial
+begin
+	e2[20] = 1'b0;
+end 
+// e2[ 19 ]
+initial
+begin
+	e2[19] = 1'b0;
+end 
+// e2[ 18 ]
+initial
+begin
+	e2[18] = 1'b0;
+end 
+// e2[ 17 ]
+initial
+begin
+	e2[17] = 1'b0;
+end 
+// e2[ 16 ]
+initial
+begin
+	e2[16] = 1'b0;
+end 
+// e2[ 15 ]
+initial
+begin
+	e2[15] = 1'b0;
+end 
+// e2[ 14 ]
+initial
+begin
+	e2[14] = 1'b0;
+end 
+// e2[ 13 ]
+initial
+begin
+	e2[13] = 1'b0;
+end 
+// e2[ 12 ]
+initial
+begin
+	e2[12] = 1'b0;
+end 
+// e2[ 11 ]
+initial
+begin
+	e2[11] = 1'b0;
+end 
+// e2[ 10 ]
+initial
+begin
+	e2[10] = 1'b0;
+end 
+// e2[ 9 ]
+initial
+begin
+	e2[9] = 1'b0;
+end 
+// e2[ 8 ]
+initial
+begin
+	e2[8] = 1'b0;
+end 
+// e2[ 7 ]
+initial
+begin
+	e2[7] = 1'b0;
+end 
+// e2[ 6 ]
+initial
+begin
+	e2[6] = 1'b0;
+end 
+// e2[ 5 ]
+initial
+begin
+	e2[5] = 1'b0;
+end 
+// e2[ 4 ]
+initial
+begin
+	e2[4] = 1'b0;
+end 
+// e2[ 3 ]
+initial
+begin
+	e2[3] = 1'b0;
+end 
+// e2[ 2 ]
+initial
+begin
+	e2[2] = 1'b0;
+end 
+// e2[ 1 ]
+initial
+begin
+	e2[1] = 1'b1;
+end 
+// e2[ 0 ]
+initial
+begin
+	e2[0] = 1'b1;
+end 
+endmodule
+

@@ -1,0 +1,145 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "s",
+					"strict" : false
+				},
+				{
+					"name" : "ct[31]",
+					"strict" : false
+				},
+				{
+					"name" : "ct[30]",
+					"strict" : false
+				},
+				{
+					"name" : "ct[29]",
+					"strict" : false
+				},
+				{
+					"name" : "ct[28]",
+					"strict" : false
+				},
+				{
+					"name" : "ct[27]",
+					"strict" : false
+				},
+				{
+					"name" : "ct[26]",
+					"strict" : false
+				},
+				{
+					"name" : "ct[25]",
+					"strict" : false
+				},
+				{
+					"name" : "ct[24]",
+					"strict" : false
+				},
+				{
+					"name" : "ct[23]",
+					"strict" : false
+				},
+				{
+					"name" : "ct[22]",
+					"strict" : false
+				},
+				{
+					"name" : "ct[21]",
+					"strict" : false
+				},
+				{
+					"name" : "ct[20]",
+					"strict" : false
+				},
+				{
+					"name" : "ct[19]",
+					"strict" : false
+				},
+				{
+					"name" : "ct[18]",
+					"strict" : false
+				},
+				{
+					"name" : "ct[17]",
+					"strict" : false
+				},
+				{
+					"name" : "ct[16]",
+					"strict" : false
+				},
+				{
+					"name" : "ct[15]",
+					"strict" : false
+				},
+				{
+					"name" : "ct[14]",
+					"strict" : false
+				},
+				{
+					"name" : "ct[13]",
+					"strict" : false
+				},
+				{
+					"name" : "ct[12]",
+					"strict" : false
+				},
+				{
+					"name" : "ct[11]",
+					"strict" : false
+				},
+				{
+					"name" : "ct[10]",
+					"strict" : false
+				},
+				{
+					"name" : "ct[9]",
+					"strict" : false
+				},
+				{
+					"name" : "ct[8]",
+					"strict" : false
+				},
+				{
+					"name" : "ct[7]",
+					"strict" : false
+				},
+				{
+					"name" : "ct[6]",
+					"strict" : false
+				},
+				{
+					"name" : "ct[5]",
+					"strict" : false
+				},
+				{
+					"name" : "ct[4]",
+					"strict" : false
+				},
+				{
+					"name" : "ct[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ct[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ct[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ct[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ck",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

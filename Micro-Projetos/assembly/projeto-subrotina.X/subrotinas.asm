@@ -1,0 +1,15 @@
+.ORG 0X0000
+
+INICIO:
+    NOP
+    NOP
+    RCALL   SUBROTINA1
+    NOP
+    RJMP    INICIO
+    
+SUBROTINA1:
+    NOP
+    NOP
+    RET
+
+

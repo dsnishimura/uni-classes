@@ -1,0 +1,12 @@
+|ex4
+ck => oitavo_clk~reg0.CLK
+ck => quarto_clk~reg0.CLK
+ck => meio_clk~reg0.CLK
+ck => \proc:oitava_sai.CLK
+ck => \proc:quarta_sai.CLK
+ck => \proc:meia_sai.CLK
+meio_clk << meio_clk~reg0.DB_MAX_OUTPUT_PORT_TYPE
+quarto_clk << quarto_clk~reg0.DB_MAX_OUTPUT_PORT_TYPE
+oitavo_clk << oitavo_clk~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
